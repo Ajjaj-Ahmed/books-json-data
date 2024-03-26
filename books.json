@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/z76zCCN/large-54fa0c4b84566aa4777379374d96899d.jpg",
+    "bookName": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "category": "Classic Literature",
+    "tags": ["fiction", "romance", "tragedy"],
+    "totalPages": 218,
+    "publisher": "Scribner",
+    "rating": 4.1,
+    "yearOfPublishing": 1925
+  },
+  
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/1dTfHn5/large-3309e8836a32e42a958f3123c330619c-3.jpg",
+    "bookName": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "category": "Fiction",
+    "tags": ["racial injustice", "coming-of-age"],
+    "totalPages": 281,
+    "publisher": "J.B. Lippincott & Co.",
+    "rating": 4.5,
+    "yearOfPublishing": 1960
+  },
+  
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/KhtcKGT/large-270f8ccdb3e534a7079fb4aca9d20234.jpg",
+    "bookName": "1984",
+    "author": "George Orwell",
+    "category": "Dystopian Fiction",
+    "tags": ["political", "social commentary"],
+    "totalPages": 328,
+    "publisher": "Secker & Warburg",
+    "rating": 4.3,
+    "yearOfPublishing": 1949
+  },
+  
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/ZG0sbm3/large-3309e8836a32e42a958f3123c330619c-2.jpg",
+    "bookName": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "category": "Romantic Fiction",
+    "tags": ["love story", "social class"],
+    "totalPages": 279,
+    "publisher": "T. Egerton, Whitehall",
+    "rating": 4.6,
+    "yearOfPublishing": 1813
+  },
+  
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/gRtpwMc/large-cf9bbbabe4bb91d223d31eb79682d07f.jpg",
+    "bookName": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "category": "Coming-of-Age Fiction",
+    "tags": ["adolescence", "alienation"],
+    "totalPages": 224,
+    "publisher": "Little, Brown and Company",
+    "rating": 4.0,
+    "yearOfPublishing": 1951
+  },
+  
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/MBXjg3V/large-e1982608651c0e4a21cc0ebffdf5db9d.jpg",
+    "bookName": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "category": "Fantasy Fiction",
+    "tags": ["magic", "wizardry", "adventure"],
+    "totalPages": 309,
+    "publisher": "Bloomsbury Publishing",
+    "rating": 4.8,
+    "yearOfPublishing": 1997
+  }
+]
